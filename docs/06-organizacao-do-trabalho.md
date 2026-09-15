@@ -33,13 +33,13 @@ Cada integrante possuirá uma branch própria para produzir sua contribuição.
 
 Branches planejadas:
 
-```text
-carlos-backend
-helio-ui-ux
-vitor-banco-dados
-ciro-frontend
-leonardo-product-owner
-```
+
+CarlosAlberto
+HelioVieira
+VitorAraújo
+CiroJunior
+LeonardoPereira
+
 
 A branch `main` será utilizada para manter a versão consolidada do projeto.
 
@@ -47,7 +47,6 @@ A branch `main` será utilizada para manter a versão consolidada do projeto.
 
 O fluxo planejado é:
 
-```text
 main
   ↓
 criação/atualização da branch individual
@@ -63,7 +62,7 @@ Pull Request
 revisão
   ↓
 merge na main
-```
+
 
 ## Registro das decisões
 

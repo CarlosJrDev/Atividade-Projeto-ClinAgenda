@@ -6,7 +6,7 @@ O **ClinAgenda** é uma proposta acadêmica de plataforma integrada para auxilia
 
 A proposta busca substituir o uso fragmentado de telefone, mensagens e planilhas por uma solução centralizada, com uma única agenda e informações organizadas em um mesmo ambiente.
 
-> **Empresa fictícia:** nome a definir pelo grupo  
+> **Empresa fictícia:** Tech Solutions 
 > **Produto:** ClinAgenda
 
 ---
@@ -94,14 +94,14 @@ Cada integrante trabalhará em uma branch própria.
 
 Sugestão de branches:
 
-```text
+
 main
-├── carlos-backend
-├── helio-ui-ux
-├── vitor-banco-dados
-├── ciro-frontend
-└── leonardo-product-owner
-```
+    CarlosAlberto
+    HelioVieira
+    VitorAraújo
+    CiroJunior
+    LeonardoPereira
+
 
 Ao concluir sua contribuição, o integrante deverá abrir um **Pull Request** para que o conteúdo seja revisado antes do merge na branch `main`.
 
@@ -111,7 +111,7 @@ A branch `main` será utilizada como versão consolidada e apresentada do projet
 
 ## Estrutura da documentação
 
-```text
+
 Atividade-Projeto-ClinAgenda/
 │
 ├── README.md
@@ -126,7 +126,7 @@ Atividade-Projeto-ClinAgenda/
     ├── 07-seguranca-privacidade-acessibilidade.md
     ├── 08-beneficios-riscos-limitacoes.md
     └── 09-escopo-do-projeto.md
-```
+
 
 Posteriormente, as contribuições individuais poderão ser adicionadas em pastas específicas para os papéis profissionais e as postagens do LinkedIn.
 
