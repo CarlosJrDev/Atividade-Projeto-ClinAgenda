@@ -2,7 +2,7 @@
 
 ## Empresa fictícia
 
-**Nome da empresa:** a definir pelo grupo.
+**Nome da empresa:** Tech Solutions
 
 **Produto:** ClinAgenda.
 

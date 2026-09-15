@@ -46,7 +46,7 @@ As áreas precisam trabalhar de maneira integrada.
 
 Exemplo de fluxo:
 
-```text
+
 Product Owner
       ↓
 Requisitos e prioridades
@@ -54,7 +54,7 @@ Requisitos e prioridades
 UI/UX
       ↓
 Front-end ↔ Back-end ↔ Banco de Dados
-```
+
 
 Essa representação não significa que o trabalho ocorra de forma isolada ou estritamente sequencial.
 
