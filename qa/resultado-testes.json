@@ -1,0 +1,63 @@
+{
+  "tests": [
+    {
+      "test": "Agendar, confirmar, remarcar, cancelar, histórico, auditoria e persistência",
+      "result": "PASS"
+    },
+    {
+      "test": "Conflitos de médico, paciente, bloqueio, fim de semana e vigência",
+      "result": "PASS"
+    },
+    {
+      "test": "Filtros de unidade, especialidade, médico, período e semanas",
+      "result": "PASS"
+    },
+    {
+      "test": "WhatsApp: troca de cliente e fila, humano, agendamento, confirmação, remarcação e cancelamento",
+      "result": "PASS"
+    },
+    {
+      "test": "Vaga oferecida pelo bot ocupada pela recepção antes da confirmação",
+      "result": "PASS"
+    },
+    {
+      "test": "WhatsApp: recusa de aceite, cadastro novo, data inválida e atualização entre telas",
+      "result": "PASS"
+    },
+    {
+      "test": "Lembretes 24h/2h, prevenção de repetição e ausência de resposta sem cancelar",
+      "result": "PASS"
+    },
+    {
+      "test": "Médico: efetivada, falta com motivo, reabrir, bloquear, desbloquear e salvar grade",
+      "result": "PASS"
+    },
+    {
+      "test": "Cadastro: criar, editar, localizar, excluir sem histórico e renovar aceite",
+      "result": "PASS"
+    },
+    {
+      "test": "Menus, usuários, perfis, exportação, texto ampliado, slides editáveis e impressão",
+      "result": "PASS"
+    },
+    {
+      "test": "Todas as ações têm implementação, revisão das cinco telas e largura móvel",
+      "result": "PASS"
+    },
+    {
+      "test": "Duplo clique, F2, F5, F10 e Escape",
+      "result": "PASS"
+    },
+    {
+      "test": "Lembrete por consulta, rascunho isolado, Enter, abas por teclado, tela cheia e restauração",
+      "result": "PASS"
+    },
+    {
+      "test": "Consulta cancelada abre o histórico e os sete slides são apresentados",
+      "result": "PASS"
+    }
+  ],
+  "passed": 14,
+  "failed": 0,
+  "browser_errors": []
+}
