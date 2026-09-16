@@ -146,7 +146,16 @@ Posteriormente, as contribuições individuais poderão ser adicionadas em pasta
 
 ---
 
-## Status
+## Contribuição individual — Front-end
+
+- [Papel profissional de Ciro Junior](papeis/ciro.md)
+- [Proposta de postagem para o LinkedIn](linkedin/ciro.md)
+- [Entrega e roteiro de apresentação de dois minutos](docs/10-contribuicao-frontend-ciro.md)
+- [Como abrir o protótipo demonstrativo](prototipo/README.md)
+
+O HTML é um apoio opcional à apresentação, com dados fictícios e canais simulados. Não representa o Back-end, o banco central ou a integração real com WhatsApp já implementados.
+
+## Status da proposta
 
 Projeto em fase de documentação e planejamento acadêmico.
 
