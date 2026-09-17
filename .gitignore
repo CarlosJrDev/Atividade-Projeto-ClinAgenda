@@ -1,0 +1,4 @@
+# Arquivos locais dos testes de demonstração
+qa/*.png
+__pycache__/
+.venv/

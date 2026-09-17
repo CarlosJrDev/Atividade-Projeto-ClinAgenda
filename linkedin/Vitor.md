@@ -1,3 +1,4 @@
+
 Proposta de postagem individual para o LinkedIn
 
 **Integrante:** André Vitor
@@ -10,6 +11,7 @@ Como responsável por essa área, meu foco foi garantir que as informações de 
 
 Além disso, implementamos rotinas de backup e estratégias de segurança alinhadas à LGPD, assegurando que os dados sensíveis sejam tratados com responsabilidade. Essa etapa não apenas fortalece a confiabilidade do sistema, mas também contribui diretamente para melhorar a experiência de pacientes e profissionais de saúde.
 
-Trabalhar em conjunto com analistas de requisitos, desenvolvedores e especialistas em segurança tem sido essencial para transformar necessidades reais em soluções tecnológicas eficientes. Estou animado para ver como essa base sólida permitirá que o projeto evolua com escalabilidade e impacto positivo na rotina das clínicas.
+Trabalhar em conjunto com analistas de requisitos, desenvolvedores e especialistas em segurança tem sido essencial para transformar necessidades reais em soluções tecnológicas eficientes. Estou animado para ver como essa base sólida permitirá que o projeto evolua com escalabilidade e impacto positivo na rotina das clínicas populares.
 
 #BancodeDados #SQL #Tecnologia #DesenvolvimentoDeSoftware #SegurancadaInformacao
+

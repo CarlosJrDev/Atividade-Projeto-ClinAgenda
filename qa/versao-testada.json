@@ -1,0 +1,11 @@
+{
+  "verifiedDate": "2026-09-16",
+  "html": "prototipo/clinagenda.html",
+  "sha256NormalizedLF": "784b06dc0643ce47a9907079276085044786d37c5be787c18776576ac5cd44fc",
+  "playwright": "1.58.0",
+  "browser": "Chromium (Playwright), headless",
+  "passed": 14,
+  "failed": 0,
+  "browserErrors": 0,
+  "scope": "Demonstracao local com dados ficticios; nao testa backend ou WhatsApp externo."
+}
