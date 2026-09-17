@@ -1,3 +1,4 @@
+
 Proposta de postagem individual para o LinkedIn
 
 **Integrante:** André Vitor
@@ -13,3 +14,4 @@ Além disso, implementamos rotinas de backup e estratégias de segurança alinha
 Trabalhar em conjunto com analistas de requisitos, desenvolvedores e especialistas em segurança tem sido essencial para transformar necessidades reais em soluções tecnológicas eficientes. Estou animado para ver como essa base sólida permitirá que o projeto evolua com escalabilidade e impacto positivo na rotina das clínicas populares.
 
 #BancodeDados #SQL #Tecnologia #DesenvolvimentoDeSoftware #SegurancadaInformacao
+
